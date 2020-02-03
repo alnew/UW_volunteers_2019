@@ -20,7 +20,7 @@ A browser tab. This is where we run the VITA Tool. It is not online, and it does
 If the installation worked and Jupyter opened okay, you're all set!
 If not, please check StackOverflow or shoot me an email at amynewman2@gmail.com
 
-# Step 3: Create a Virtual Environment and Install poppler and pandas
+## Step 3: Create a Virtual Environment and Install poppler and pandas
 In Anaconda Navigator, launch Jupyter Labs.
 In Jupyter Labs, navigate to File > New > Terminal. A new tab should open called “Terminal 1”. In this terminal, run the following commands
 
@@ -44,15 +44,15 @@ conda config --add channels conda-forge
 conda install -c conda-forge poppler
 conda install pandas
 
-# Step 4: Open Jupyter Lab with your unitedway environment
+## Step 4: Open Jupyter Lab with your unitedway environment
 
 Close Jupyter Labs and Anaconda Navigator
 Open Anaconda Navigator, then select unitedway from the dropdown after At “Applications on”. 
 Click “Install” for  Jupyter Labs (making sure you’re using the unitedway environment)
 Click “Launch” for Jupyter Labs
 
-# Step 5: Download Files to Run VITA Tool
-Download from Github or email
+## Step 5: Download Files to Run VITA Tool
+- Download from Github or email
 Unzip Folder and keep on Desktop
 Use Run_Tax_Tool.ipynb only for running the program
 
