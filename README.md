@@ -16,8 +16,8 @@ This is the interface we will use to run the VITA Tool. Conda installed this for
 - Typing "Jupyter" into your computer's search bar and clicking on "Jupyter Lab"
 - Running "Jupyter Lab" in the terminal
 - Jupyter opens two things:
--- A terminal / command line window. Ignore this. You won't need to do anything with it. Closing this window kills Jupyter, so don't do it unless you're done working and you have saved your work.
--- A browser tab. This is where we run the VITA Tool. It is not online, and it does not require internet to work. Jupyter runs on your computer and uses your browser to display interactive text and images. 
+  * A terminal / command line window. Ignore this. You won't need to do anything with it. Closing this window kills Jupyter, so don't do it unless you're done working and you have saved your work.
+  * A browser tab. This is where we run the VITA Tool. It is not online, and it does not require internet to work. Jupyter runs on your computer and uses your browser to display interactive text and images. 
 - If the installation worked and Jupyter opened okay, you're all set!
 - If not, please check StackOverflow or shoot me an email at amynewman2@gmail.com
 
