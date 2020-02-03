@@ -25,32 +25,32 @@ This is the interface we will use to run the VITA Tool. Conda installed this for
 In Anaconda Navigator, launch Jupyter Labs.
 In Jupyter Labs, navigate to File > New > Terminal. A new tab should open called “Terminal 1”. In this terminal, run the following commands
 
-For Mac:
-conda create -n unitedway python=3.7
+### For Mac:
+- conda create -n unitedway python=3.7
 	You will see a list of new packages to install
 	Proceed ([y]/n)?  → “y”
-conda activate unitedway
-conda config --add channels conda-forge
-conda install poppler
+- conda activate unitedway
+- conda config --add channels conda-forge
+- conda install poppler
 You will see a list of new packages to install
 Proceed ([y]/n)? → “y”
-conda install pandas
+- conda install pandas
 	You will see a list of new packages to install
 	Proceed ([y]/n)? → “y”
 
-For Windows:
-conda create -n unitedway python=3.7
-conda activate unitedway
-conda config --add channels conda-forge
-conda install -c conda-forge poppler
-conda install pandas
+### For Windows:
+- conda create -n unitedway python=3.7
+- conda activate unitedway
+- conda config --add channels conda-forge
+- conda install -c conda-forge poppler
+- conda install pandas
 
 ## Step 4: Open Jupyter Lab with your unitedway environment
 
-Close Jupyter Labs and Anaconda Navigator
-Open Anaconda Navigator, then select unitedway from the dropdown after At “Applications on”. 
-Click “Install” for  Jupyter Labs (making sure you’re using the unitedway environment)
-Click “Launch” for Jupyter Labs
+- Close Jupyter Labs and Anaconda Navigator
+- Open Anaconda Navigator, then select unitedway from the dropdown after At “Applications on”. 
+- Click “Install” for  Jupyter Labs (making sure you’re using the unitedway environment)
+- Click “Launch” for Jupyter Labs
 
 ## Step 5: Download Files to Run VITA Tool
 - Download from Github or email
@@ -59,24 +59,26 @@ Click “Launch” for Jupyter Labs
 
 
 # United Way VITA Tax Tool: How to Open the Program
-Turn on laptop and log in
-Open Anaconda Navigator
-In Mac use either:
-Launchpad
-Your terminal (type “jupyter lab”)
-In Windows:
-Open the “Start” panel
-Click on “Anaconda Navigator” (has a green circle in front of it)
-Set your Anaconda Navigator to unitedway
-Use the dropdown next to “Applications on” to set to “unitedway”
+- Turn on laptop and log in
+- Open Anaconda Navigator
+
+### In Mac use either:
+- Launchpad
+- Your terminal (type “jupyter lab”)
+
+### In Windows:
+- Open the “Start” panel
+- Click on “Anaconda Navigator” (has a green circle in front of it)
+- Set your Anaconda Navigator to unitedway
+- Use the dropdown next to “Applications on” to set to “unitedway”
 
 Click “Launch” under JupyterLab
 
 # United Way VITA Tax Tool: How to Run the Program
 
-In Jupyter Lab, navigate to  Desktop > INFORMS-master > Run_Tax_Tool.ipynb
-Click Run > Restart Kernel and Run All Cells…
-This will run the current sample file that is uncommented in cell 5. Please uncomment the file you would like to run. And comment out any other files.
-Look at Client_output.txt and 2019_client_tax_information.csv for final output for each client
+- In Jupyter Lab, navigate to  Desktop > INFORMS-master > Run_Tax_Tool.ipynb
+- Click Run > Restart Kernel and Run All Cells…
+- This will run the current sample file that is uncommented in cell 5. Please uncomment the file you would like to run. And comment out any other files.
+- Look at Client_output.txt and 2019_client_tax_information.csv for final output for each client
 
 
