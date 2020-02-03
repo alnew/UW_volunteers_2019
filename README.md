@@ -7,18 +7,19 @@ For code to work on machine, please do the following:
 ## Step 1: Install Anaconda
 You can download and install Anaconda (aka "conda") version 3.7 here:  https://www.anaconda.com/distribution
 Conda is a "package manager," which is sort of like an "app store." It installs Python and a bunch of useful Python packages by default, and it can be used to install or update additional packages later on.
+
 If you already have installed Python things using "pip" (a different package manager), then installing conda may cause the old Python things to work differently because they're now using the new versions installed by conda. In most cases this is fine: you can and should use conda for all your Python installation and update needs (see "why use conda?" on their website).
 
 ## Step 2: Open Jupyter Lab
 This is the interface we will use to run the VITA Tool. Conda installed this for you. In most cases, you can get to it by using any of the options below:
-Opening the "Anaconda Navigator" and clicking "Launch Jupyter Lab"
-Typing "Jupyter" into your computer's search bar and clicking on "Jupyter Lab"
-Running "Jupyter Lab" in the terminal
-Jupyter opens two things:
-A terminal / command line window. Ignore this. You won't need to do anything with it. Closing this window kills Jupyter, so don't do it unless you're done working and you have saved your work.
-A browser tab. This is where we run the VITA Tool. It is not online, and it does not require internet to work. Jupyter runs on your computer and uses your browser to display interactive text and images. 
-If the installation worked and Jupyter opened okay, you're all set!
-If not, please check StackOverflow or shoot me an email at amynewman2@gmail.com
+- Opening the "Anaconda Navigator" and clicking "Launch Jupyter Lab"
+- Typing "Jupyter" into your computer's search bar and clicking on "Jupyter Lab"
+- Running "Jupyter Lab" in the terminal
+- Jupyter opens two things:
+-- A terminal / command line window. Ignore this. You won't need to do anything with it. Closing this window kills Jupyter, so don't do it unless you're done working and you have saved your work.
+-- A browser tab. This is where we run the VITA Tool. It is not online, and it does not require internet to work. Jupyter runs on your computer and uses your browser to display interactive text and images. 
+- If the installation worked and Jupyter opened okay, you're all set!
+- If not, please check StackOverflow or shoot me an email at amynewman2@gmail.com
 
 ## Step 3: Create a Virtual Environment and Install poppler and pandas
 In Anaconda Navigator, launch Jupyter Labs.
@@ -53,8 +54,8 @@ Click “Launch” for Jupyter Labs
 
 ## Step 5: Download Files to Run VITA Tool
 - Download from Github or email
-Unzip Folder and keep on Desktop
-Use Run_Tax_Tool.ipynb only for running the program
+- Unzip Folder and keep on Desktop
+- Use Run_Tax_Tool.ipynb only for running the program
 
 
 # United Way VITA Tax Tool: How to Open the Program
