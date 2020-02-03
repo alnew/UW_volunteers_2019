@@ -3,13 +3,13 @@ United Way Tax Tool Code for volunteers (code to be used in clinics)
 
 For code to work on machine, please do the following:
 
-United Way VITA Tax Tool: Software Installation & Setup Instructions 
-# Step 1: Install Anaconda
+# United Way VITA Tax Tool: Software Installation & Setup Instructions 
+## Step 1: Install Anaconda
 You can download and install Anaconda (aka "conda") version 3.7 here:  https://www.anaconda.com/distribution
 Conda is a "package manager," which is sort of like an "app store." It installs Python and a bunch of useful Python packages by default, and it can be used to install or update additional packages later on.
 If you already have installed Python things using "pip" (a different package manager), then installing conda may cause the old Python things to work differently because they're now using the new versions installed by conda. In most cases this is fine: you can and should use conda for all your Python installation and update needs (see "why use conda?" on their website).
 
-# Step 2: Open Jupyter Lab
+## Step 2: Open Jupyter Lab
 This is the interface we will use to run the VITA Tool. Conda installed this for you. In most cases, you can get to it by using any of the options below:
 Opening the "Anaconda Navigator" and clicking "Launch Jupyter Lab"
 Typing "Jupyter" into your computer's search bar and clicking on "Jupyter Lab"
