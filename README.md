@@ -23,20 +23,14 @@ This is the interface we will use to run the VITA Tool. Conda installed this for
 
 ## Step 3: Create a Virtual Environment and Install poppler and pandas
 In Anaconda Navigator, launch Jupyter Labs.
-In Jupyter Labs, navigate to File > New > Terminal. A new tab should open called “Terminal 1”. In this terminal, run the following commands
+In Jupyter Labs, navigate to File > New > Terminal. A new tab should open called “Terminal 1”. In this terminal, run the following commands. (NOTE: anytime you enter a command and see "Proceed ([y]/n)?" type "y")
 
 ### For Mac:
 - conda create -n unitedway python=3.7
-	You will see a list of new packages to install
-	Proceed ([y]/n)?  → “y”
 - conda activate unitedway
 - conda config --add channels conda-forge
 - conda install poppler
-You will see a list of new packages to install
-Proceed ([y]/n)? → “y”
 - conda install pandas
-	You will see a list of new packages to install
-	Proceed ([y]/n)? → “y”
 
 ### For Windows:
 - conda create -n unitedway python=3.7
