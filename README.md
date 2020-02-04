@@ -76,4 +76,11 @@ Click “Launch” under JupyterLab
 - Click Run > Restart Kernel and Run All Cells…
 - This will run all files in the 2019_Returns folder
 
+## Output
+Output will be in the following files:
+- Client_output.txt
+- 2019_client_tax_information.csv
+
+To print a copy of the Client_output.txt, navigate to Desktop > INFORMS-master > Client_output.txt and print from there. 
+
 
