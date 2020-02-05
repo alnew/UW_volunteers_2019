@@ -61,10 +61,10 @@ In Jupyter Labs, navigate to File > New > Terminal. A new tab should open called
 - Your terminal (type “jupyter lab”)
 
 ### In Windows:
-- Open the “Start” panel
+- In search bar, type "Anaconda Navigator (Anaconda 3)"
 - Click on “Anaconda Navigator” (has a green circle in front of it)
 - Set your Anaconda Navigator to unitedway
-- Use the dropdown next to “Applications on” to set to “unitedway”
+  - Use the dropdown next to “Applications on” to set to “unitedway”
 
 Click “Launch” under JupyterLab
 
