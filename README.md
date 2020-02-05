@@ -61,14 +61,13 @@ In Jupyter Labs, navigate to File > New > Terminal. A new tab should open called
 - Your terminal (type “jupyter lab”)
 
 ### In Windows:
-- In search bar, type "Anaconda Navigator (Anaconda 3)"
-- Click on “Anaconda Navigator” (has a green circle in front of it)
+- Click on "Start" > Anaconda3 (64-bit) > Anaconda Navigator (Anaconda 3) - it has a green circle in front of it
 - Set your Anaconda Navigator to unitedway
   - Use the dropdown next to “Applications on” to set to “unitedway”
 
 Click “Launch” under JupyterLab
 
-# United Way VITA Tax Tool: How to Run the Program
+# United Way VITA Tax Tool: How to Run the Program 
 
 - Go to Desktop > UW_volunteers > 2019_Returns 
 - Drop .pdf files into the 2019_Returns folder that you would like the tool to run
