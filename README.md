@@ -70,9 +70,9 @@ Click “Launch” under JupyterLab
 
 # United Way VITA Tax Tool: How to Run the Program
 
-- Go to Desktop > INFORMS-master > 2019_Returns 
+- Go to Desktop > UW_volunteers > 2019_Returns 
 - Drop .pdf files into the 2019_Returns folder that you would like the tool to run
-- In Jupyter Lab, navigate to  Desktop > INFORMS-master > Run_Tax_Tool.ipynb
+- In Jupyter Lab, navigate to  Desktop > UW_volunteers > Run_Tax_Tool.ipynb
 - Click Run > Restart Kernel and Run All Cells…
 - This will run all files in the 2019_Returns folder
 
@@ -81,6 +81,6 @@ Output will be in the following files:
 - Client_output.txt
 - 2019_client_tax_information.csv
 
-### To print a copy of the Client_output.txt, navigate to Desktop > INFORMS-master > Client_output.txt and print from there. 
+### To print a copy of the Client_output.txt, navigate to Desktop > UW_volunteers > Client_output.txt and print from there. 
 
 
