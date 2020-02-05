@@ -65,7 +65,7 @@ In Jupyter Labs, navigate to File > New > Terminal. A new tab should open called
 - Set your Anaconda Navigator to unitedway
   - Use the dropdown next to “Applications on” to set to “unitedway”
 
-Click “Launch” under JupyterLab
+- Click “Launch” under JupyterLab
 
 # United Way VITA Tax Tool: How to Run the Program 
 
