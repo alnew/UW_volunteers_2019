@@ -31,6 +31,7 @@ In Jupyter Labs, navigate to File > New > Terminal. A new tab should open called
 - conda config --add channels conda-forge
 - conda install poppler
 - conda install pandas
+- conda install -c conda-forge ipywidgets
 
 ### For Windows:
 - conda create -n unitedway python=3.7
@@ -38,6 +39,7 @@ In Jupyter Labs, navigate to File > New > Terminal. A new tab should open called
 - conda config --add channels conda-forge
 - conda install -c conda-forge poppler
 - conda install pandas
+- conda install -c conda-forge ipywidgets
 
 ## Step 4: Open Jupyter Lab with your unitedway environment
 
