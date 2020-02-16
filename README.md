@@ -22,24 +22,28 @@ This is the interface we will use to run the VITA Tool. Conda installed this for
 - If not, please check StackOverflow or shoot me an email at amynewman2@gmail.com
 
 ## Step 3: Create a Virtual Environment and Install poppler and pandas
-In Anaconda Navigator, launch Jupyter Labs.
-In Jupyter Labs, navigate to File > New > Terminal. A new tab should open called “Terminal 1”. In this terminal, run the following commands. (NOTE: anytime you enter a command and see "Proceed ([y]/n)?" type "y")
 
 ### For Mac:
-- conda create -n unitedway python=3.7
-- conda activate unitedway
-- conda config --add channels conda-forge
-- conda install poppler
-- conda install pandas
-- conda install xlrd
+1. In Anaconda Navigator, launch Jupyter Labs.
+2. In Jupyter Labs, navigate to File > New > Terminal. A new tab should open called “Terminal 1”. In this terminal, run the following commands. (NOTE: anytime you enter a command and see "Proceed ([y]/n)?" type "y")
+ - conda create -n unitedway python=3.7
+ - conda activate unitedway
+ - conda config --add channels conda-forge
+ - conda install poppler
+ - conda install pandas
+ - conda install xlrd
 
 ### For Windows:
-- conda create -n unitedway python=3.7
-- conda activate unitedway
-- conda config --add channels conda-forge
-- conda install -c conda-forge poppler
-- conda install pandas
-- conda install xlrd
+1. Navigate to Anaconda3(64-bit) > Anaconda Prompt(Anaconda3)
+2. Type in the following commands and press enter, then "y" for each command
+ - conda create -n unitedway python=3.7
+ - conda activate unitedway
+ - conda config --add channels conda-forge
+ - conda install -c conda-forge poppler
+ - conda install pandas
+ - conda install xlrd
+3. Close Anaconda Navigator, then re-open Anaconda Navigator
+
 
 ## Step 4: Open Jupyter Lab with your unitedway environment
 
