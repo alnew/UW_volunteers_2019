@@ -88,4 +88,5 @@ Output will be in the following files:
 
 ### To print a copy of the Client_output.txt, navigate to Desktop > UW_volunteers > Client_output.txt and print from there. 
 
+Instructions to Run the Tool: https://docs.google.com/document/d/1Q_kYThjvs6nUPQ1KX9c6iDNDmV-CNSKAol5-SUGGc-o/edit?usp=sharing
 
