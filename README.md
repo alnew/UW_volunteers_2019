@@ -75,7 +75,7 @@ This is the interface we will use to run the VITA Tool. Conda installed this for
 
 # United Way VITA Tax Tool: How to Run the Program 
 
-### Instructions to Run the Tool: https://docs.google.com/document/d/1Q_kYThjvs6nUPQ1KX9c6iDNDmV-CNSKAol5-SUGGc-o/edit?usp=sharing
+### Instructions to Run the Tool (with photos): https://docs.google.com/document/d/1Q_kYThjvs6nUPQ1KX9c6iDNDmV-CNSKAol5-SUGGc-o/edit?usp=sharing
 
 - Go to Desktop > UW_volunteers > 2019_Returns 
 - Drop .pdf files into the 2019_Returns folder that you would like the tool to run
