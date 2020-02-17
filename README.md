@@ -10,6 +10,13 @@ Conda is a "package manager," which is sort of like an "app store." It installs 
 
 If you already have installed Python things using "pip" (a different package manager), then installing conda may cause the old Python things to work differently because they're now using the new versions installed by conda. In most cases this is fine: you can and should use conda for all your Python installation and update needs (see "why use conda?" on their website).
 
+## Step 1a: Create Anaconda Navigator Shortcut for Desktop
+
+### For Windows:
+1. Click the "Start" icon in the bottom left corner
+2. Click on "Anaconda3(64-bit)
+3. Drag the Anaconda Navigator(Anaconda3) icon to the Desktop
+
 ## Step 2: Open Jupyter Lab
 This is the interface we will use to run the VITA Tool. Conda installed this for you. In most cases, you can get to it by using any of the options below:
 - Opening the "Anaconda Navigator" and clicking "Launch Jupyter Lab"
