@@ -21,7 +21,7 @@ This is the interface we will use to run the VITA Tool. Conda installed this for
 - If the installation worked and Jupyter opened okay, you're all set!
 - If not, please check StackOverflow or shoot me an email at amynewman2@gmail.com
 
-## Step 3: Create a Virtual Environment and Install poppler and pandas
+## Step 3: Create a Virtual Environment and Install poppler, pandas, and xlrd
 
 ### For Mac:
 1. In Anaconda Navigator, launch Jupyter Labs.
