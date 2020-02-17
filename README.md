@@ -74,7 +74,10 @@ This is the interface we will use to run the VITA Tool. Conda installed this for
 - Your terminal (type “jupyter lab”)
 
 ### In Windows:
-- Click on "Start" > Anaconda3 (64-bit) > Anaconda Navigator (Anaconda 3) - it has a green circle in front of it
+- To Open, choose either of the following options:
+  1. Click "Anaconda Navigator(Anaconda3)" icon on the Desktop
+  2. Click on "Start" > Anaconda3 (64-bit) > Anaconda Navigator (Anaconda 3) - it has a green circle in front of it
+  
 - Set your Anaconda Navigator to unitedway
   - Use the dropdown next to “Applications on” to set to “unitedway”
 
