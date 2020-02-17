@@ -98,5 +98,6 @@ Output will be in the following files:
 ## Printing Output
 - To print a copy of the Client_output.txt:
   1. open a File Explorer (the File icon on the bottom of your screen)
-  2. navigate to Desktop > UW_volunteers-master > Client_output.txt and print from there. 
+  2. navigate to Desktop > UW_volunteers-master > Client_output.txt
+  3. Right click Client_output.txt and select "Print". 
 
