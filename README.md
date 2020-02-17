@@ -5,7 +5,7 @@ For code to work on machine, please do the following:
 
 # Download Code for Tool:
 ## Step 1: Download File from GitHub
-- Make sure you are on the https://github.com/alnew/UW_volunteers: [link](https://github.com/alnew/UW_volunteers)
+- Make sure you are on the https://github.com/alnew/UW_volunteers page
 - Click Clone or Download button (it's green, near the top)
 - Click Download Zip
 - Put the UW_volunteers-master.zip file on your Desktop
