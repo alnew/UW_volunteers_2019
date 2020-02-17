@@ -3,8 +3,13 @@ United Way Tax Tool Code for volunteers (code to be used in clinics)
 
 For code to work on machine, please do the following:
 
-# Download Code from GitHub:
-## Step 1: 
+# Download Code for Tool:
+## Step 1: Download File from GitHub
+- Make sure you are on the https://github.com/alnew/UW_volunteers: [link](https://github.com/alnew/UW_volunteers)
+- Click Clone or Download button (it's green, near the top)
+- Click Download Zip
+- Put the UW_volunteers-master.zip file on your Desktop
+- Unzip the file and put the UW_volunteers-master file on the Desktop
 
 # United Way VITA Tax Tool: Software Installation & Setup Instructions 
 ## Step 1: Install Anaconda
