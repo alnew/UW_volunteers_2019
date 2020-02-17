@@ -96,5 +96,7 @@ Output will be in the following files:
 - 2019_client_tax_information.csv
 
 ## Printing Output
-- To print a copy of the Client_output.txt, open a File Explorer (the File icon on the bottom of your screen) and navigate to Desktop > UW_volunteers-master > Client_output.txt and print from there. 
+- To print a copy of the Client_output.txt:
+  1. open a File Explorer (the File icon on the bottom of your screen)
+  2. navigate to Desktop > UW_volunteers-master > Client_output.txt and print from there. 
 
