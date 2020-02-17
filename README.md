@@ -15,7 +15,7 @@ If you already have installed Python things using "pip" (a different package man
 ### For Windows:
 1. Click the "Start" icon in the bottom left corner
 2. Click on "Anaconda3(64-bit)
-3. Drag the Anaconda Navigator(Anaconda3) icon to the Desktop
+3. Drag the Anaconda Navigator(Anaconda3) icon to the Desktop (it has a green circle to the left of the text)
 
 ## Step 2: Open Jupyter Lab
 This is the interface we will use to run the VITA Tool. Conda installed this for you. In most cases, you can get to it by using any of the options below:
