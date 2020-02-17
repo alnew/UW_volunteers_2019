@@ -3,6 +3,9 @@ United Way Tax Tool Code for volunteers (code to be used in clinics)
 
 For code to work on machine, please do the following:
 
+# Download Code from GitHub:
+## Step 1: 
+
 # United Way VITA Tax Tool: Software Installation & Setup Instructions 
 ## Step 1: Install Anaconda
 You can download and install Anaconda (aka "conda") version 3.7 here:  https://www.anaconda.com/distribution
